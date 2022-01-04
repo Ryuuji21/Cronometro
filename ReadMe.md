@@ -1,0 +1,1 @@
+Programa de um cronômetro simples que possui horas, minutos e segundos, possuindo botão de inicialização, pausa e reset. 

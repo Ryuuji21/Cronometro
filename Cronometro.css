@@ -1,0 +1,29 @@
+body 
+{
+    background-color: rgb(25, 25, 36);
+    color: rgb(252, 252, 252);
+}
+div
+{
+    text-align: center;
+}
+
+button
+{
+    height: 2.5em;
+    width: 6em;
+}
+
+
+.start
+{
+    background-color: green;
+}
+.pause
+{
+    background-color: grey;
+}
+.reset
+{
+    background-color: red;
+}
